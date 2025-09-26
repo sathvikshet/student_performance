@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: student_performance
+Version: 0.0.1
+Author: Sathvik
+Author-email: sathviksathvik798@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
