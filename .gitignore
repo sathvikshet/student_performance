@@ -1,5 +1,8 @@
 venv/
-artifacts/
 logs/
 __pycache__/
 *.pyc
+
+
+
+
